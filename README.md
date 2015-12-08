@@ -1,5 +1,7 @@
 # Stdlib
 
+[![Build Status](https://travis-ci.org/hanif/stdlib.svg)](https://travis-ci.org/hanif/stdlib)
+
 Collections of useful classes and interfaces I often use in my projects.
 
 ## Classes & Traits
