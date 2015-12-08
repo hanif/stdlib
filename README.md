@@ -34,9 +34,9 @@ Usage:
 use Stdlib\Math\BigDecimal;
 
 $n = new BigDecimal('12345678900987654321');
-$n->mul(12345);
+$val = $n->mul(12345);
 
-> echo $n;
+> echo $val->getValue();
 > '152407406032692592592745'
 
 ```
